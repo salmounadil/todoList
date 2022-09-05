@@ -1,0 +1,99 @@
+body{
+    margin:0;
+    padding: 1% 10%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    background-color: #e4e4e4;
+}
+
+#titre{
+    background-color: #60c5ff;
+    color: white;
+    padding-left: 1%;
+}
+
+#contenu{
+    border-top: 3px solid #60c5ff;
+    background-color: #f8f9fa;
+    padding: 3%;
+}
+
+[type='submit']{
+    background-color: #4c00ff;
+    color: white;
+}
+
+hr{
+    height: 3px;
+    background-color: #dfe0e1;
+    border: none;
+    margin:  2% 0;
+}
+
+input{
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#boutons{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 5px;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.margin{
+    margin: 5%;
+}
+
+.flex2{
+    flex: 2;
+}
+
+.flex10{
+    flex: 10;
+}
+
+.check{
+color:#60c5ff ;
+}
+
+.edit{
+    color:#f8ca4f ;
+}
+
+.delete{
+    color: #dc3645;
+}
+
+.terminer{
+    background-color: #28a745 !important;
+}
+
+.afaire{
+    background-color: #e4e4e4 !important;
+}
+
+.none{
+    display: none;
+}
+
+.block{
+    display: block;
+}
+
+
+
+
+
+
+.blanc{
+background-color: #e4e4e4;
+color: #4c00ff ;
+}
