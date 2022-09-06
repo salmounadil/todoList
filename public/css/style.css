@@ -48,6 +48,7 @@ input{
     justify-content: space-around;
 }
 
+
 .margin{
     margin: 5%;
 }
@@ -96,4 +97,14 @@ color:#60c5ff ;
 .blanc{
 background-color: #e4e4e4;
 color: #4c00ff ;
+}
+
+#newTask{
+    width: 70%;
+    height: 30px;
+}
+
+#ajouter{
+    width: 20%;
+    height: 40px;
 }
